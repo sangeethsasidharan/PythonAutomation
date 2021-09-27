@@ -2,3 +2,7 @@ beautifulsoup4
 requests
 flake8
 html2text
+jupyter
+pyspark
+camelot-py
+seaborn
