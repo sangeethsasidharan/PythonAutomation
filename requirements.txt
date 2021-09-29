@@ -6,3 +6,4 @@ jupyter
 pyspark
 camelot-py
 seaborn
+opencv-python
